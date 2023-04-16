@@ -1,7 +1,8 @@
 function highlight() {
     //Write your code here
 
-
+<title>Get And Style All Tags</title>
+	<link rel="stylesheet" href="styles.css">
 }
 
 
